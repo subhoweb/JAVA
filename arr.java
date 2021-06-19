@@ -1,3 +1,5 @@
+//It is a Arraylist Program
+
 import java.util.ArrayList;
 
 public class arr {
