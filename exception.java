@@ -9,6 +9,9 @@ public class exception {
 		catch(ArrayIndexOutOfBoundsException e){
 			System.out.print("Something went wrong");
 		}
+		finally {
+			System.out.print("Try & Catch Done... ");
+		}
 
 	}
 
